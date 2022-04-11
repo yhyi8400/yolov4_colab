@@ -1,2 +1,2 @@
 # yolov4_colab
-yolov4 in colab
+Yolov4 custom dataset training in COLAB
